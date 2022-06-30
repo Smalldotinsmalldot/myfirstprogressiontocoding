@@ -1,3 +1,3 @@
-# 코딩을 향한 첫번째 진보
+MY First Progressiont To Coding
 
-CSS는 훨씬 나아!
+I CAN DO IT.
